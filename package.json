@@ -1,5 +1,5 @@
 {
-  "name": "dev-ops",
+  "name": "angular2-rails",
   "version": "0.0.1",
   "description": "rails project with angular2 and es6",
   "main": "index.js",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zuozuo/dev-ops.git"
+    "url": "git+https://github.com/zuozuo/angular2-rails.git"
   },
   "keywords": [
     "rails",
@@ -24,9 +24,9 @@
   "author": "zuozuo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zuozuo/dev-ops/issues"
+    "url": "https://github.com/zuozuo/angular2-rails/issues"
   },
-  "homepage": "https://github.com/zuozuo/dev-ops#readme",
+  "homepage": "https://github.com/zuozuo/angular2-rails#readme",
   "dependencies": {
     "angular2": "^2.0.0-beta.2",
     "babel-polyfill": "^6.3.14",
